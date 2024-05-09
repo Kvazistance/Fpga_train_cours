@@ -1,0 +1,4 @@
+INFO: [VRFC 10-2263] Analyzing SystemVerilog file "A:/fpga/rg-fpga-course/rg-fpga-course/rg-fpga-course/part-2/exercises/srl_bit.sv" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module srl_bit
+INFO: [VRFC 10-2263] Analyzing SystemVerilog file "A:/fpga/rg-fpga-course/rg-fpga-course/rg-fpga-course/part-2/exercises/srl_bit_tb.sv" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module srl_bit_tb

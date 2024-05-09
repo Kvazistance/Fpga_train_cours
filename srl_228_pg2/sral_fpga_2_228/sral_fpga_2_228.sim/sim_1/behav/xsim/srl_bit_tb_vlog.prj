@@ -1,0 +1,10 @@
+# compile verilog/system verilog design source files
+sv xil_defaultlib  \
+"../../../../../../rg-fpga-course/rg-fpga-course/rg-fpga-course/part-2/exercises/srl_bit.sv" \
+"../../../../../../rg-fpga-course/rg-fpga-course/rg-fpga-course/part-2/exercises/srl_bit_tb.sv" \
+
+# compile glbl module
+verilog xil_defaultlib "glbl.v"
+
+# Do not sort compile order
+nosort

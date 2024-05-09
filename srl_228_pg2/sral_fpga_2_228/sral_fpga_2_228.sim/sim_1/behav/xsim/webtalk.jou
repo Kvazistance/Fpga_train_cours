@@ -1,0 +1,12 @@
+#-----------------------------------------------------------
+# Webtalk v2019.1 (64-bit)
+# SW Build 2552052 on Fri May 24 14:49:42 MDT 2019
+# IP Build 2548770 on Fri May 24 18:01:18 MDT 2019
+# Start of session at: Wed May  1 20:06:53 2024
+# Process ID: 8968
+# Current directory: A:/fpga/srl_228_pg2/sral_fpga_2_228/sral_fpga_2_228.sim/sim_1/behav/xsim
+# Command line: wbtcv.exe -mode batch -source A:/fpga/srl_228_pg2/sral_fpga_2_228/sral_fpga_2_228.sim/sim_1/behav/xsim/xsim.dir/srl_bit_tb_behav/webtalk/xsim_webtalk.tcl -notrace
+# Log file: A:/fpga/srl_228_pg2/sral_fpga_2_228/sral_fpga_2_228.sim/sim_1/behav/xsim/webtalk.log
+# Journal file: A:/fpga/srl_228_pg2/sral_fpga_2_228/sral_fpga_2_228.sim/sim_1/behav/xsim\webtalk.jou
+#-----------------------------------------------------------
+source A:/fpga/srl_228_pg2/sral_fpga_2_228/sral_fpga_2_228.sim/sim_1/behav/xsim/xsim.dir/srl_bit_tb_behav/webtalk/xsim_webtalk.tcl -notrace

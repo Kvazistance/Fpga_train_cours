@@ -1,0 +1,8 @@
+0.6
+2019.1
+May 24 2019
+15:06:07
+A:/fpga/rg-fpga-course/rg-fpga-course/rg-fpga-course/part-2/exercises/srl_bit.sv,1714060622,systemVerilog,,A:/fpga/rg-fpga-course/rg-fpga-course/rg-fpga-course/part-2/exercises/srl_bit_tb.sv,,srl_bit,,,,,,,,
+A:/fpga/rg-fpga-course/rg-fpga-course/rg-fpga-course/part-2/exercises/srl_bit_tb.sv,1714586445,systemVerilog,,,,srl_bit_tb,,,,,,,,
+A:/fpga/srl_228_pg2/sral_fpga_2_228/sral_fpga_2_228.sim/sim_1/behav/xsim/glbl.v,1558713910,verilog,,,,glbl,,,,,,,,
+A:/fpga/srl_228_pg2/sral_fpga_2_228/sral_fpga_2_228.srcs/sources_1/new/my_inverse.sv,1714584010,systemVerilog,,A:/fpga/rg-fpga-course/rg-fpga-course/rg-fpga-course/part-2/exercises/srl_bit_tb.sv,,my_inverse,,,,,,,,
